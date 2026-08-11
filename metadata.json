@@ -1,0 +1,6 @@
+{
+  "name": "India Road Accident Analytics Project",
+  "description": "End-to-End India Road Accident Data Analysis Project featuring Python EDA, MySQL workbench, Power BI dashboard, DAX measures, and exportable project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
